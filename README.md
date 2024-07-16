@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to zangcc's github 👋</h1>
 
 
-> 仅为个人开发，禁止商用！！如果大家有更好的建议，可以扫描私信我🙆‍♂️ 
+> 仅为个人开发，禁止商用！！完整包下载之后，需要修改apk源码中的MainActivity类，将69行代码中的url修改成自己的vps公网ip即可，有问题可以扫描私信我🙆‍♂️ 
 
 
 <img width="170" alt="image" src="https://github.com/zangcc/Java_Risky_Functions/assets/64825932/d8cd05f1-248f-4e3d-87e8-ee8dafec2dfc">
