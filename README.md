@@ -1,0 +1,2 @@
+# Encrypted_demo_App
+用于brida和frida练习hook逆向技术的安卓apk源码。尝试暴破出加密密码并进行登录即可通关。
