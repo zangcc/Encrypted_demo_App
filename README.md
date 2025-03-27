@@ -8,7 +8,8 @@
 
 # Encrypted_demo_App
 用于brida和frida练习hook逆向技术的安卓apk源码。尝试暴破出加密密码并进行登录即可通关。
-（Brida+burpsuite联动（自动加解密APP请求参数）演示视频在我的Bilibili。）
+
+（Brida+burpsuite联动（自动加解密APP请求参数）演示视频在我的Bilibili。
 
 注意！下载Releases完整包（包含apk安装包和server.py）文件之前，要对比SHA256值和MD5值，谨防下载到其他来源的恶意投毒/留后门的软件！
 
